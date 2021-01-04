@@ -1,4 +1,4 @@
-# MySQL-Management
+# Player-Management
 Simple Management of MySQL Database
 
  - to select, insert, update, delete the data in MySQL database
